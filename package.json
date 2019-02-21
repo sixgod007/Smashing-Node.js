@@ -1,0 +1,25 @@
+{
+  "name": "smashing-node",
+  "version": "1.0.0",
+  "description": "了不起的Node.js学习",
+  "main": "s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixgod007/Smashing-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixgod007/Smashing-Node.js/issues"
+  },
+  "homepage": "https://github.com/sixgod007/Smashing-Node.js#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "finalhandler": "^1.1.1",
+    "morgan": "^1.9.1",
+    "serve-static": "^1.13.2"
+  }
+}
