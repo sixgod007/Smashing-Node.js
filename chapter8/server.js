@@ -34,4 +34,3 @@ var server = http.createServer(function (req, res) {
         fs.createReadStream(path).pipe(res);
     }
 }).listen(3000);
-
